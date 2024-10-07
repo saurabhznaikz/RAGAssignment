@@ -1,0 +1,179 @@
+23/07/2024, 05:47
+China Network Systems -China Network Security Situation | DSI Blog
+https://esmt.berlin/faculty-research/dsi/blog/inside-chinas-Cyber-SYINAS-CYBERSECURITY- LANDSCAPE
+1/7
+Network and digital diplomacy
+May 12, 2023
+Inside the Chinese network system--
+China Network Security situation
+Helen Plero
+Features of China's network security governance agency structure
+Yes, the Central Network hosted by President Xi Jinping
+Under the leadership of the Link Security and Informatization Committee, please refer to
+There are many subjects and agencies.
+China's goal is to become "Internet Super Power" and technical leaders.To achieve these wars
+A little goal, since 2012, the policies of digital technology have been significantly improved and established
+A comprehensive network governance system framework.Previously, this policy area was fragmented, divided into divisions
+Scattered in many different institutions.Now, the system is attached by many party and state institutions, attached
+23/07/2024, 05:47
+China Network Systems -China Network Security Situation | DSI Blog
+https://esmt.berlin/faculty-research/dsi/blog/inside-chinas-Cyber-SYINAS-CYBERSECURITY- LANDSCAPE
+2/7
+(On the surface is non -governmental) think tanks or research institutions and technical entities and industry collaboration
+It will be composed of industry alliances.The following blog articles illustrate the bottom of China's network security pattern
+Layer structure, and introduce the main participants, especially the references of ROGIER CREEMERS
+(2021) A paper, who traced back and further explained the weight of these institutions
+Group.
+
+Figure 1: Disciplinary framework of institutional network governance.
+
+China's network policy is directed by Xi Jinping himself from top to bottom.
+Chairman of Quanhe Information Committee.The Central Cyber ​​Security and Informatization Commission is Chinese politics
+One of the most powerful institutions in the government.His responsibilities include providing leadership and departments coordination and coordination
+The integration of national defense and private sector, promoting decision -making, and solving network security and informatization leaders
+Tension between departmental departments.However, the operation of the committee is mostly secretly carried out
+of.
+The next floor of the pyramid is the National Internet Information Office (CAC), which is the Chinese network
+The main working institutions of security and key information infrastructure management committees, and provide banks
+Political support.His responsibilities are mainly coordinated, including the designated network information office as the network security review and
+The competent department of key information infrastructure management, leading the personal data protection department of the Internet
+Gate, jointly manage data security, drafting the national network space security strategy.In addition, the net
+The letter office also has supervision responsibilities, responsible for network content control and network operators related to promise
+Can be procedures.Therefore, it supervises five subordinate organizations: Technical Committee 260 (TC260)
+Responsible for technical information security standards.It is estimated that since 2015, the TC260 has been released
+About 300 items.From an official perspective, it is an independent organization, but
+There is a clear connection with the Internet Information Office.It consists of seven regular working groups, focusing on different
+Network security issues.Foreign companies can participate in some of them, but the other one
+Some working groups are only for Chinese officials and representatives of Chinese technology companies.These standards bring
+Many challenges have become increasingly difficult for foreign companies to carry out business in China.middle
+The National Network Security Association (CSAC) is also supervised by the State Cyber ​​Information Office.It is an intermediary group
+Weaving assists government departments to effectively implement laws, regulations and policies.The Internet Information Office is also responsible for supervision
+Prices under the Think Tank China Network Space Research Institute (CACS).The research institute does not carry out international industry
+It is issued, but the Internet development reports of China and the world are issued every year.The Internet Information Office is still responsible for
+23/07/2024, 05:47
+China Network Systems -China Network Security Situation | DSI Blog
+https://esmt.berlin/faculty-research/dsi/blog/inside-chinas-Cyber-SYINAS-CYBERSECURITY- LANDSCAPE
+3/7
+Regulating CNCERN/CC, the task of the center is to deal with network attacks, prevent, detect and
+Copy loopholes and events.In addition, it also participates in international affairs and claims to be a non -government
+Technical center, but close contact with government agencies.China Internet Information Center
+(CNNIC) also belongs to the jurisdiction of the Internet Information Office, responsible for supervision. CN top domain names and Mandarin
+DNS technology operation of domain name.
+China's network security focus mainly comes from the main goal of maintaining its power control.
+Therefore, content control plays an important role: the Ministry of Public Security (MPS) is responsible for the release of the relevant
+How to report or review the direct instructions of specific types of information.It commands the Chinese Police Department
+Team, responsible for implementing laws and regulations, and carried out targeted work on high priority issues
+move.For example, it supervises the "Golden Shield Project" and the national information security management system, that is, "the Great Wall
+Firewall. The Great Wall Firewall is part of the "Golden Shield Project" and started in 2000.
+It describes the Internet review and surveillance project of the Chinese government, which includes the review machine
+System and propaganda elements are designed to limit content, such as blocking certain foreign websites, identification and
+Positioning individuals and providing access to their personal information.Gold Shield Project and Firewall Sharing
+Hardware and software, but dealing with domestic law enforcement issues, and constituting can hang it with the social credit system
+Hook database.In addition, the 11th Bureau is also responsible for supervising the network security level protection system
+(MLPS) operation to ensure information security and crack down on cyber crimes.
+The Ministry of Industry and Information Technology (MIIT) is responsible for the construction and management of network infrastructure, including
+Deploy 5G technology and related information security tasks. In addition
+Industrial policy.Therefore, it focuses on the Internet and telecommunications infrastructure
+Effective.It is responsible for supervising the China Information and Communication Technology Research Institute (CAICT) and China
+Network Association (ISC).Both institutions claim to be non -governmental agencies and claim to be independent
+Standing.CAICT is a think tank that is responsible for research and policy formulation and release of publications.
+And provide opinions for the industry and the government, such as technical standards.Therefore, it is in the ICT policy
+It played a role in the formulation of standards, especially as a foreign ICT company in these questions
+Important dialogue on the question.On the other hand, ISC is an intermediary organization in the Internet industry.
+16 working group processing from network copyright protection and rural information to spam messages and interconnection
+Internet finance and other issues.Internationally, ISC is self -positioning as the non -political environment in China
+Government and multi -interest related organizations, but in fact it plays a supervision role.
+Although strive to reorganize the structure of the organization, so that responsibilities no longer scattered in many different institutions,
+The duties of bureaucratic duties of network security and privacy are still diverse and conflicted with each other.
+The Ministry of Industry and Information Technology, the Ministry of Public Security, TC260 and the Internet information department in standards, regulations and reality
+There are some rights to speak.
+On the external issue on the international stage, the Ministry of National Security (MSS) outside China
+The implementation of intercourse and network security agenda is very important.Despite about Chinese intelligence and security machines
+The open information of the structure is very small, but it is suspected to be related to the hacker organizations such as APT3 and APT10
+United.MSS regulatory two institutions: China Institute of Modern International Relations (CICR) and China
+Information Technology Security Evaluation Center (CNITSEC).CNITSEC collects related software and hardware
+Vulnerability information of products and information systems.It manages China's national information security vulnerabilities
+According to the library (CNNVD), and the security review process stipulated in CSL and its subordinates.
+Cicr claims that he is a research institution focusing on international affairs, but it is closed with MSS
+The department is close, and many senior leaders have intelligence background.It is responsible for international 1.5 rails
+The main agency of the relationship between 2 orbit.
+23/07/2024, 05:47
+China Network Systems -China Network Security Situation | DSI Blog
+https://esmt.berlin/faculty-research/dsi/blog/inside-chinas-Cyber-SYINAS-CYBERSECURITY- LANDSCAPE
+4/7
+Finally, the Ministry of Foreign Affairs (MFA) is responsible for participating in the international network diplomatic process in this field.But
+As other areas, as in other specialty areas, the direct power of the Ministry of Foreign Affairs on the relevant policies of the Internet
+Frequent small.
+
+Figure 2: Summary of tasks of each organization.
+
+In addition, other departments often participate in network issues: specialized technical institutions, support education
+The department of research and the financial department of China Digital Strategy.In addition, even though in China
+Digital technology policies are largely civil privileges, but its ability and the PLA's ability and the ability of the PLA
+Theory is increasingly intertwined.For example, the PLA network forces are also a main participation
+In the abroad, we conducting network operations, engaged in economic spy activities abroad, or with various types
+APT is closely linked.It also regards network space action as an important part of the information warfare
+point.
+In summary, the Chinese Communist Party has largely participated in various stages of the network governance system.
+Moreover, the reorganization and expansion of the network governance system are basically completed.But, cannot be ruled out
+New development and upgrading of bureaucracy and key technology areas: For example, a new one
+The data management agency was divided into a further reorganization of the State Council in early 2023
+stand.It will be responsible for coordinating and promoting the construction of the data element system, coordinating the data resources
+Comprehensive sharing, development and utilization, coordinate the promotion of digital China, digital economy and digital society
+Construction planning and construction.In this way, the data will be used as the "Fifth Most Normal Factor".In addition, the same
+Driven by the government's security concerns, the goal of "localization" of technology is even more emphasized (the purpose
+The standard is to achieve technical self -sufficiency by 2035 and become the world's top innovators).to this end,
+National innovation and research are increasingly promoted.It is expected that the new government will strengthen the Ministry of Science and Technology
+(MOST) The role of supervision and policy in pursuing the success of science and technology.
+In addition, the private sector also plays an important role in the field of network security in China, especially
+It is the largest ICT companies such as Alibaba, Baidu and Tencent, as well as industry associations
+Alliance.They are at the forefront of China's global ambitions, especially in China
+The international network ambitious recipe for accuracy, influence global digital order and realization of technology self -reliance
+noodle.Therefore, they also have a significant impact on domestic ICT policies.
+Finally, the governance system is related to the interrelated policies, laws, policies, regulations and standards
+Composition to make it "network space and information communication technology (ICT) in any country in any country (ICT)
+23/07/2024, 05:47
+China Network Systems -China Network Security Situation | DSI Blog
+https://esmt.berlin/faculty-research/dsi/blog/inside-chinas-Cyber-SYINAS-CYBERSECURITY- LANDSCAPE
+5/7
+The most comprehensive governance system. "Although the" Cyber ​​Security Law "is the core, it is allowed
+Maximum data control and increased the risk of intellectual property theft have been criticized.this
+In addition, its wording and definition are quite vague, which has increased the government's need to make a wide range of louds of investigation.
+The reason for the clearness has reduced the ability of foreign companies to challenge government data access.Place
+These documents involve digital economy and security issues, such as security review and key
+Infrastructure protection, online content management, encryption and data flow.This governance system makes
+China has the opportunity to go hand in hand with Europe and has powerful data and security governance models.
+Other countries are even using laws similar to China, thus bringing communication and adding
+Risk of strong dictatorship.
+In addition, the Wuzhen Internet Conference has been held once a year since 2014, which is the CCP propaganda network
+Important platform for the concept of linked problem.The meeting is used to discuss Internet issues and policies.
+The opportunity to provide the rules of network space for various countries, just as Xi Jinping meets
+The concept of network sovereignty proposed on it.This kind of understanding is dominated by the West
+It is running running from the Internet concept, because it will allow countries to have the final in digital space
+authority.It will establish a national border in network space to prevent the free flow of information and make
+The Internet is more likely to be controlled and achieve "digital authoritarianism."Therefore, China is seeking
+Form the network space according to your own concept at the global level, such as entering through the United Nations
+Cheng, for example, the "Guidelines for International Conduct" proposed to the United Nations in 2011, proposed to the United Nations,
+Or proposed "new IP" and other proposals proposed at the 2019 Internet Telecommunications Alliance meeting.
+We are witnessing the rapid rise of China as a strong science and technology country: its ability is continuously enhanced,
+But it has not yet dominated.Beijing's ambitions also have its limitations: lack of talent and creation
+Newly come to achieve these strategic goals, and dependence on foreign technology is high.China
+One measure taken by the government to overcome these obstacles is the establishment of national network security in 2017
+center.It consists of seven research, talent development and entrepreneurial centers.Overcoming this challenge
+Another important aspect of becoming a desire to become a big country of the Internet is economic diplomatic workers
+Global activities with China Science and Technology Corporation, such as the "Digital Silk Road".Chinese technology
+The company plays an increasingly important role in this regard.These projects are seeking a new city
+The Chinese company promoted by the field and supports the government to obtain economic, strategic and political influence
+Ambition.For these reasons, the government provides finances for these companies and their innovative projects
+Support and invested huge sums of money, mainly focusing on emerging technologies such as 5G, AI and semiconductors.
+In addition, the new government attaches more importance to (national) security and control, which will also affect technical politics
+Strategy.A recent report of ASPI warned that although China has not yet had technical advantages,
+But it has laid the foundation for leading key technologies in the future in extensive fields such as artificial intelligence
+foundation.This prediction seems to be reasonable, because innovation and self -sufficient self -sufficiency are China.
+Strategic focus, as President Xi Jinping said in 2018: "Independent innovation is the only reason
+Road ... To be the leader of the world technology."Overview of the network governance system is to achieve all this
+The cornerstone of some goals.Therefore, understand it for analyzing China as a network space participant
+And its ambition is crucial.
+Network and digital diplomacy
+Network security
+23/07/2

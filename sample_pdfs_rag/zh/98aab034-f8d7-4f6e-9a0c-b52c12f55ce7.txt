@@ -1,0 +1,196 @@
+# Tools## c2#
+Github+-+P3nt4/Nuages:+A+Modular+C2+Framework
+#Bypass waf#
+img rSrcຽᓋᤩೝ౼҅
+Bleak
+Github+-+hakluke/hakrawler:+Simple,+Fast+Web+Crawl ...
+# Redteam#
+Att & CK &
+# ٖᗑⴝ᭐#
+Bleak
+# Tricks#
+accomplice/masterkeys.csv+at+master+·+nccgroup/acc ...
+. (2020.1.9)
+% Word a (% AppData% \ Microsoft \ Word \ Startup) ӿⴒے *.wll ෈կ҅୮ Word ෈կސۖጱ෸ײٌտ3 Rundll32.exe ے
+෈Կ҅ইӥࢶֺৼಅᐏ҅ᧆොဩݢአԭ *. WLL in Win զӥଃํ Word ጱ o ﬃ CE ԇ๢
+Wing: ๶ᛔ Crazyman
+# Redteam#
+Bleak
+࿜ࣗධڋጱḿ௏᪠ҁ෫् xssx
+Bleak
+EDR ग़ᖌଶ੒ಯ
+Bleak
+ܔ๢ & ऒ๦ᴴᖌ೮
+Bleak
+Redteaming-2020-01-06
+Redteaming-2020-01-06
+Redteaming-2020-01-06
+Redteaming-2020-01-06
+Redteaming-2020-01-08
+Redteaming-2020-01-10
+Redteaming-2020-01-12
+Bleak
+Bleak
+Bleak
+Bleak
+Redteamer e
+Redteam e
+# Tools#
+Bleak
+᭲៞ગᇙ༏+|+s's+blog
+# Ⴝ᭐ၥᦶ#
+java ᒊⴝ᭐ၥᦶ
+T00LS+|++-+ᄟஞԟਞق
+ᑇ৏ា: ဌํݺݪᨴݩ
+Wing: ತӟӻ԰ᘶᗑᄋ၏൉ի੪ᤈ̶౯ᦕ஑౯य़ӟጱ෸ײฎᎌիԧਂؙ xss, ӟፗൾṻکሿࣁ̶
+´ƙ: (*`*) ╯
+#Bypass av##
+D Shellcode ᮎզ
+T00LS+|++-+ᄟஞԟਞق
+# Bypassav#
+ݸⴝ᭐ C2 ૡٍ
+Github+-+Bats3C/Shad0w:+A+Post+Explootation+Framew ...
+Redteaming-2020-01-18
+Redteaming-2020-01-21
+tricks
+n+ -+neurohazard
+Redteaming-2020-01-21
+Redteaming-2020-02-08
+Redteaming-2020-06-17
+# لޞ#
+૶๕ᬯ᯾ጱੜվ֎᮷ଉ൉ᳯ޾ړձ҅ݎ૲ԇ᷌ጱ෸ײੱᰁአ౯ୌᒈጱ 10 ӻຽᓋӿጱӟӻ҅ො׎ෆቘ୭ᔄ҅᫨ݎ᱾ള޾෈ᒍጱ෸ײӟਧᥝօᕨ෈ᒍ౲ᘏૡٍጱԇᥝٖ਻౲ۑᚆ҅ํջԍୌᦓཻᬨኸ᥺̶
+# Bypassav#
+CS ޽ෆҙ AV ཞݻጱ෸ײ᭬ک
+ᚕ๜ฎӧع๤ጱֵ҅አ CS ֵአጱ PS re ResourceKit ๅදܻ๶ጱ Template ܨݢ̶
+Making+amsi+jump+-+o ﬀ ENSIVE+Defence
+COBALTSTRIKE-TOOLSET/KITS/ResourceKit+At+Master+·+...
+# Bypassav#
+exe oPowershell ጱᦾԟݢզ᭗ᬦਧ֖ᇙ஄҅ץදᇙ஄҅ᕰᬦ๤᫫̶
+Github+-+RythmStick/AMSITRIGGER:+The+Hunt+for+Mali ...
+຤Ӻڍහᤩ๤ԧ҅ಋۖⴐႝզӥܨݢ̶౯మమ҅অ؟ڹپॠํᓤօᕨ pwsh w
+Bleak
+Redteaming-2020-06-17
+Redteaming-2020-06-17
+Redteaming-2020-06-17
+Bleak
+Bleak
+I ﬁ nd itﬁ
+PowerShell s
+APT:+Powershell ޸եⴐႝṛᕆ੒ಯ
+Wing: ٟ෈ᒍӧᥝአջԍ APT XXX ୏१̶ᴻᶋ֦፥ጱํፘىᕪḵ̶
+# ๦ᴴᖌ೮#
+IIS ཛྷࣘݸᳪ
+echo ၥᦶ
+Bleak
+Bleak
+Bleak
+bleak
+D Shellcode
+T00LS+|++-+ᄟஞԟਞق
+# ᕁᴚྎ࢏۸୏ݎ#
+ಷᗑᰜṻᛔ૩ӧड़ᕡஞ҅զԅဌဉፋ༄ၥ҅ᕮຎ੪ฎํ ...
+Bleak
+Anti-Sandbox/Readme.md+AT+Master+·+Zanderchang/ANT ...
+# ਞق୏ݎ#
+ਞق୏ݎጱ demo e
+Bleak
+# Ⴝ᭐चꮠ#
+෫ࢧดጱఘ٭ӥፖٟ Shell
+Powershell
+f = -join (
+F
+bash
+//. Test.html ጱ໑ፓ୯ଚಗᤈ ID ޸եٟف 1. TXT
+CD $ ( -ND -Name "Test.html" -Type F -exec DiRNAME {} \; | SED 1Q) && Echo id> 1.txt
+Java++ -+y4er ጱܗਮ
+Redteaming-2020-06-17
+Redteaming-2020-06-18
+Redteaming-2020-06-18
+Redteaming-2020-06-18
+# Ⴝ᭐चꮠ#
+෫ࢧดጱఘ٭ӥፖٟ Shell
+Powershell
+f = -join (
+F
+bash
+//. Test.html ጱ໑ፓ୯ଚಗᤈ ID ޸եٟف 1. TXT
+CD $ ( -ND -Name "Test.html" -Type F -exec DiRNAME {} \; | SED 1Q) && Echo id> 1.txt
+Java++ -+y4er ጱܗਮ
+######
+ے᫹੪ᤈ҅౯๋ᬪဌ෸ᳵ҅ Cldll ᵙᬦ [ᵙᬦ]
+Bring+Your+Own+.NET+Core+Garbage+Collector+|+Conte ...
+Redteaming-2020-06-18
+Redteaming-2020-06-20
+# Ⴝ᭐ದૣ#
+ᥴੂ RDP p
+"
+C Ghostpack ૡٍ۱୮ӿጱ Sharpdpapi
+឴ݐ૪ഴ๢࢏๜ࣈכਂጱ RDP p
+Redteaming-2020-06-21
+# Ⴝ᭐ದૣ#
+ldap ဳفܻቘөڥአ
+Ldap ဳففᳪ਍ԟ೰ܖ+-+ԯ+ᐒ܄+-+ᚸᦔԯ ᚸᦔԯ
+# ᕁᴚྎ࢏۸ૡٍ#
+Bleak
+Github+-+fsecureLabs/PHYSMEM2PRO ﬁ T:+PHYSMEM2PRO ﬁ ...
+mimikatz k
+1̵๊ഘಅํ෈կٖ਻ӿጱ mimikatzmimikatz
+2̵ਖ਼ mimikatz m
+3̵ץද RC ෈կөicoc
+4̵ֵአ Head a Head -C 10000 sss.exe> ​​xxx.exe
+5̵ץදݸභఽ᦯҅ग़ԅmimiwkiwianDigest̵base64̵multirdp̵logonPord̵sekurlsa̵҅ᆐݸฎވັ๤
+6̵ෛୌ DEF f DEF ෈կๅද੕فᤒጱᒧݩ҅ᆐݸֵአ dumpbin (vs ᛔଃ) ኞ౮ lib ෈կ҅ᆐݸ᯿ෛᖫᦲܨݢ̶
+#Mimikatz##redteam#
+ړᇙ஄ꮁॡ፥ਫԧ҅ԏڹአᬦپེ҅ݸ๶፥ጱฎ: Head r virtest ፥ḕ
+lengyi: d Windows Defender ٌ҅՜ጱ෫ಅ᧲
+I: WD mmimi ᬦ WD ᬮ፥ဌ݄ဳ఺ᬦ҅ḙᬦ WD ஑ᶌړᐶ
+҅Ӧᬦ: d WD e WD EDP ӧᤈ҅ᮎӻᘶᗑັ๤ॡᇍ᭧҅ᤈԅԟฎ҅ํᅩᳯ᷌੪ಚӟٖ᭭ਂ
+lengyi: WD i
+lengyi: y
+lengyi: y
+L: දӟӥ҅ icon pvmp ےӻॎৼ
+# ᕁᴚྎ࢏۸ꮈݎ#
+Cstipsᔮڜ, ౯਍ԟද᭜ӥٚړձӥஞ஑ .p .p.
+https://www.bilibili.com/video/bv1yz411i71z?p=2 [ঃᒞ]
+Redteaming-2020-06-22
+Bleak
+Bleak
+Redteaming-2020-06-22
+Redteaming-2020-06-24
+Redteaming-2020-06-24
+Redteaming-2020-06-24
+Redteaming-2020-06-24
+Bleak
+@NTHOMSEC
+@Fuzzysec
+@Subtee
+@Hexacorn
+@R3DF09
+@ptracesecurity
+@Thehackersnews
+@0x ﬀﬀ0800
+@campuscodi
+@Pwsecspirit
+@Cyberraiju
+@424F424F
+# Cstips# #cs ൊկ୏ݎ#
+Qaxh ጱ๏݋݈ๅෛԧᬯሻ఺.ጱ๏݋݈ๅෛԧᬯሻ఺
+Github+-+Gloxec/Crossc2:+Generate+CobalTStrike's+C ...
+# Cstips#
+CobalTStrike ๅෛک 4.1 ҅ीےইӥۑᚆ̶
+Redteaming-2020-06-24
+Redteaming-2020-06-25
+June 25, 2020 -Cobalt Strike 4.1
+----------------
++ FIXED & Listener_delete
++ Implementd Sub-System to run Beacon Object Files. A BOF is a Compiled C
+Program that excavations within and can call win32 and beacon apis
++ Ported 4.0's Inline-EXECUTE CAPABILITIES TO BOFS
++ FIXED LOGIC ﬂ AW In GetSystem
++ Added Inline-EXECUTE Command to Run Arbitrary Bofs
++ Moved Dllload, Reg Query/Queryv, and TimesStomb to BOFS
++ Added Option to Bootstrap
+-LTIFACT KIT and PowerShell (Resource Kit) Artifacts use this option
+-DDED & Payload_Bootstrap_hint to Apply This OTHER Artifacts
+-DDED -HASBOOTESTRAPHINT to check if this oplies to a payload
+-Set Stage-> Smartinject to True to Enable
